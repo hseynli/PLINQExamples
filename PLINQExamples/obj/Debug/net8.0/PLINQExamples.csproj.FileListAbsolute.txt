@@ -1,0 +1,17 @@
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\bin\Debug\net8.0\PLINQExamples.exe
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\bin\Debug\net8.0\PLINQExamples.deps.json
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\bin\Debug\net8.0\PLINQExamples.runtimeconfig.json
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\bin\Debug\net8.0\PLINQExamples.dll
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\bin\Debug\net8.0\PLINQExamples.pdb
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\bin\Debug\net8.0\Bogus.dll
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\obj\Debug\net8.0\PLINQExamples.csproj.AssemblyReference.cache
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\obj\Debug\net8.0\PLINQExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\obj\Debug\net8.0\PLINQExamples.AssemblyInfoInputs.cache
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\obj\Debug\net8.0\PLINQExamples.AssemblyInfo.cs
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\obj\Debug\net8.0\PLINQExamples.csproj.CoreCompileInputs.cache
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\obj\Debug\net8.0\PLINQExa.097B20FB.Up2Date
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\obj\Debug\net8.0\PLINQExamples.dll
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\obj\Debug\net8.0\refint\PLINQExamples.dll
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\obj\Debug\net8.0\PLINQExamples.pdb
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\obj\Debug\net8.0\PLINQExamples.genruntimeconfig.cache
+C:\Users\hseyn\source\repos\PLINQExamples\PLINQExamples\obj\Debug\net8.0\ref\PLINQExamples.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uZbcSRd6TX4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hseyn\\source\\repos\\PLINQExamples\\PLINQExamples\\PLINQExamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hseyn\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
